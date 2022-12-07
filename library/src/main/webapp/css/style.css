@@ -1,0 +1,27 @@
+.sidebar-heading{
+	margin-top: 50px;
+}
+.fa-edt{
+    color: yellow;
+    cursor: pointer;
+}
+.fa-bk{
+    color: blue;
+    cursor: pointer;
+}
+.fa-del{
+    color: red;
+    cursor: pointer;
+}
+input.form-control.bg-light.border-0.small{
+	background-color: white !important;
+}
+
+div#dataTable_filter {
+    visibility: hidden;
+}
+
+a#add-book {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

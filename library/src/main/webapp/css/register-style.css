@@ -1,0 +1,13 @@
+.sidebar-heading{
+	margin-top: 50px;
+}
+label {
+    font-weight: bold;
+}
+small.small {
+    color: red !important;
+}
+
+span {
+    font-weight: initial;
+}
